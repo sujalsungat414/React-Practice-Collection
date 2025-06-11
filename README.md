@@ -22,14 +22,17 @@ This repository contains a collection of beginner-friendly React projects. Each 
 6. **Digital-Clock**  
    Displays the current time dynamically using React’s lifecycle and hooks.
 
-7. **Stop-Watch**  
+7. **Form-validation**  
+   A basic form that validates user inputs (e.g., email, password, etc.) in real-time. Helps grasp form handling and validation logic using state and conditional rendering.
+
+8. **Stop-Watch**  
    A stopwatch timer that includes start, stop, and reset functionalities. Perfect for learning useEffect and useRef hooks.
 
-8. **Tic-Tac-Toe**  
+9. **Tic-Tac-Toe**  
    A classic game built in React to demonstrate conditional rendering, game logic, and component hierarchy.
 
-9. **ToDoList-App**  
-   A simple to-do list with task addition and deletion. Teaches form handling and dynamic rendering.
+10. **ToDoList-App**  
+    A simple to-do list with task addition and deletion. Teaches form handling and dynamic rendering.
 
 ---
 
@@ -77,6 +80,5 @@ This project is aimed at:
 Feel free to fork this repo, improve the apps, or add more beginner-friendly React projects. Pull requests are always welcome!
 
 ---
-
 
 > Made with ❤️ by Suj
